@@ -1,0 +1,22 @@
+{
+  "valid_email": {
+    "email": "faw1@example.com",
+    "password": "password"
+  },
+  "empty_email": {
+    "email": "",
+    "password": "password"
+  },
+  "empty_password": {
+    "email": "faw1@example.com",
+    "password": ""
+  },
+  "credential_not_found": {
+    "email": "xx812@example.com",
+    "password": "password"
+  },
+  "incorrect_credentials": {
+    "email": "faw1@example.com",
+    "password": "password1"
+  }
+}
